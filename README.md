@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Atul+Chahar;Full+Stack+Developer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Atul+Chahar;Full+Stack+Developer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Atul-Chahar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:chaharatul92@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atul-chahar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/atulchahar77"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Atul-Chahar&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 </p>
 
