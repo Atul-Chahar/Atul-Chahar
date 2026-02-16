@@ -76,12 +76,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atul-Chahar&show_icons=true&theme=radical&count_private=true" alt="Atul-Chahar's Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Atul-Chahar&show_icons=true&theme=radical&count_private=true" alt="Atul-Chahar's Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-Chahar&theme=radical" alt="Atul-Chahar's Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Chahar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
