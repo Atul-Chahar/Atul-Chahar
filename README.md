@@ -1,7 +1,7 @@
 <!-- Profile README for Atul Chahar. Widgets: capsule-render, readme-typing-svg, skillicons, github-readme-stats, streak-stats, snk. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:6C63FF,100:00D4FF&height=230&section=header&text=Atul%20Chahar&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20engineer%20%7C%20agents%2C%20LLM%20apps%20%26%20automations&descSize=20&descAlignY=58" width="100%" alt="Atul Chahar, AI engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:6C63FF,100:00D4FF&height=220&section=header&text=Atul%20Chahar&fontSize=64&fontColor=ffffff&fontAlignY=38" width="100%" alt="Atul Chahar, AI engineer" />
 </p>
 
 <p align="center">
@@ -94,16 +94,12 @@
 ## GitHub in numbers
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Atul-Chahar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Chahar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Atul-Chahar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atul-Chahar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atul-Chahar&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atul-Chahar&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <br/>
