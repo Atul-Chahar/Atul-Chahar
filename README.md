@@ -74,6 +74,21 @@
 
 <br/>
 
+## Open source
+
+10+ merged pull requests across projects I use and learn from:
+
+<p>
+  <a href="https://github.com/CCExtractor"><img src="https://img.shields.io/badge/CCExtractor-1F1F1F?style=flat-square" alt="CCExtractor" /></a>
+  <a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/Keploy-1F1F1F?style=flat-square" alt="Keploy" /></a>
+  <a href="https://github.com/certtools/intelowl"><img src="https://img.shields.io/badge/IntelOwl%20%2F%20GreedyBear-1F1F1F?style=flat-square" alt="IntelOwl and GreedyBear" /></a>
+  <a href="https://github.com/CERT-Polska"><img src="https://img.shields.io/badge/Artemis%20(CERT--Polska)-1F1F1F?style=flat-square" alt="Artemis by CERT-Polska" /></a>
+  <img src="https://img.shields.io/badge/CNCF%20ecosystem-1F1F1F?style=flat-square" alt="CNCF ecosystem" />
+  <img src="https://img.shields.io/badge/Sample%20Platform-1F1F1F?style=flat-square" alt="Sample Platform" />
+</p>
+
+<br/>
+
 ## Tech stack
 
 <p align="center">
