@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1000px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1000px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">            1cQ0Yvr)!</tspan>
+<tspan x="15" y="50">  ixQpbwCrYkhahhhhao##qXi</tspan>
+<tspan x="15" y="70">iq8WW&amp;&amp;&amp;W%8odbkkhaaoooo*Wr</tspan>
+<tspan x="15" y="90">MWMW&amp;&amp;8&amp;od*&amp;%W*aaaao*ooo*#*r</tspan>
+<tspan x="15" y="110">#MMWW#88WhbooW&amp;8WM*ohoo*ooo#dl</tspan>
+<tspan x="15" y="130">#MW&amp;W8%qvjuYXzczQp#8%&amp;&amp;WMaoooh</tspan>
+<tspan x="15" y="150">Y#8888v1{}[)cmkkpwLLUJXk&amp;W*ao&amp;{</tspan>
+<tspan x="15" y="170">  I+[pqaam[/ZqbQwmOYnt/1pW&amp;#a&amp;|</tspan>
+<tspan x="15" y="190">     1wCY+}(fxzfux/{}11(cWb0QZ~</tspan>
+<tspan x="15" y="210">     ~{1&lt;[j1f___~~~?1|||Xq)v?rt</tspan>
+<tspan x="15" y="230">     _!|xQUXu]+~++[}tjnvcufLt{}</tspan>
+<tspan x="15" y="250">     -&lt;(zvcX/t?+?}})fnvzCxt?])</tspan>
+<tspan x="15" y="270">     ?jOuvfrnXX]{|fuvzYQCZnuJ</tspan>
+<tspan x="15" y="290">     _j]uhkn|(nYtrvCL0OkurzQx</tspan>
+<tspan x="15" y="310">      ZvuunXCU0mmCmphobX|fcU</tspan>
+<tspan x="15" y="330">      iq#oMWMMM&amp;&amp;&amp;MhqCn//xXU</tspan>
+<tspan x="15" y="350">        _fukoaahdpZLzr|(/nOkkqX[</tspan>
+<tspan x="15" y="370">           ,LQO0LUcxf(]1ZWM#**a*aXr[</tspan>
+<tspan x="15" y="390">            !JYcunr/]tw&amp;MM**o*hkkkh*Wd</tspan>
+<tspan x="15" y="410">             :Jnx(1XoWM##hkha*ohkhhooo</tspan>
+<tspan x="15" y="430">            vj1xcm&amp;#**ModaWMkba*##*MM#</tspan>
+<tspan x="15" y="450">          !aohkW#**oM#bo&amp;Wbb####MMW#WM</tspan>
+<tspan x="15" y="470">        ?Uwoa*oMh*M&amp;kh&amp;%hd####*M##MMWM</tspan>
+<tspan x="15" y="490">     ?U#Mdph*W*kM&amp;Wp#88qoMMo##MMMWMWMW</tspan>
+<tspan x="15" y="510">   1bWWoph*aabo&amp;&amp;MqW88p#&amp;aoM#MMMWWWMWW</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="405" y="30">atul@chahar</tspan> -—————————————————————————————————————————-—-
+<tspan x="405" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 11, Android, Linux</tspan>
+<tspan x="405" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">1 year, 8 months, 29 days</tspan>
+<tspan x="405" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Open to work, Bengaluru, India</tspan>
+<tspan x="405" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">AI Engineer (agents, on-device AI)</tspan>
+<tspan x="405" y="130" class="cc">. </tspan><tspan class="key">Awards</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">2nd Lyzr Agentathon, iQOO Hackathon</tspan>
+<tspan x="405" y="150" class="cc">. </tspan>
+<tspan x="405" y="170" class="cc">. </tspan><tspan class="key">Code</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Python, TypeScript, Kotlin, JS</tspan>
+<tspan x="405" y="190" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Next.js, React, Node.js</tspan>
+<tspan x="405" y="210" class="cc">. </tspan><tspan class="key">Speaks</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">English, Hindi</tspan>
+<tspan x="405" y="230" class="cc">. </tspan>
+<tspan x="405" y="250" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">DENO, Kavach, KILLSWITCH</tspan>
+<tspan x="405" y="270" class="cc">. </tspan><tspan class="key">Founder</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">EliteFolks (1,100 sign-ups)</tspan>
+<tspan x="405" y="310">- Contact</tspan> -———————————————————————————————————————————-—-
+<tspan x="405" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">atulchahar1206@gmail.com</tspan>
+<tspan x="405" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">atul-chahar-portfolio.vercel.app</tspan>
+<tspan x="405" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">atul-chahar</tspan>
+<tspan x="405" y="390" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">atulchahar77</tspan>
+<tspan x="405" y="410" class="cc">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Atul_Chahar</tspan>
+<tspan x="405" y="450">- GitHub Stats</tspan> -——————————————————————————————————————-—-
+<tspan x="405" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots">. </tspan><tspan class="value" id="repo_data">55</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">67</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ...... </tspan><tspan class="value" id="star_data">11</tspan>
+<tspan x="405" y="490" class="cc">. </tspan><tspan class="key">Contributions</tspan>:<tspan class="cc" id="commit_data_dots"> ... </tspan><tspan class="value" id="commit_data">1,692</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> .... </tspan><tspan class="value" id="follower_data">10</tspan>
+</text>
+</svg>

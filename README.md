@@ -1,5 +1,12 @@
 <!-- Profile README for Atul Chahar. Widgets: capsule-render, readme-typing-svg, skillicons, github-readme-stats, streak-stats, snk. -->
 
+<a href="https://github.com/Atul-Chahar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atul-Chahar/Atul-Chahar/main/dark_mode.svg">
+    <img alt="Atul Chahar's GitHub profile card" src="https://raw.githubusercontent.com/Atul-Chahar/Atul-Chahar/main/light_mode.svg">
+  </picture>
+</a>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:6C63FF,100:00D4FF&height=220&section=header&text=Atul%20Chahar&fontSize=64&fontColor=ffffff&fontAlignY=38" width="100%" alt="Atul Chahar, AI engineer" />
 </p>
